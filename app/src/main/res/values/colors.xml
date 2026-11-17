@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#0A0E1A</color>
+    <color name="colorPrimary">#00D4FF</color>
+    <color name="colorPrimaryVariant">#0891B2</color>
+    <color name="colorOnPrimary">#0A0E1A</color>
+    <color name="colorSecondary">#8B5CF6</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorBackground">#0A0E1A</color>
+    <color name="colorOnBackground">#F1F5F9</color>
+    <color name="colorSurface">#111827</color>
+    <color name="colorOnSurface">#F1F5F9</color>
+</resources>

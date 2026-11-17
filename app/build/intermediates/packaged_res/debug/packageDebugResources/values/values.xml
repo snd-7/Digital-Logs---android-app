@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBackground">#0A0E1A</color>
+    <color name="colorOnBackground">#F1F5F9</color>
+    <color name="colorOnPrimary">#0A0E1A</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorOnSurface">#F1F5F9</color>
+    <color name="colorPrimary">#00D4FF</color>
+    <color name="colorPrimaryVariant">#0891B2</color>
+    <color name="colorSecondary">#8B5CF6</color>
+    <color name="colorSurface">#111827</color>
+    <color name="ic_launcher_background">#0A0E1A</color>
+    <string name="accessibility_service_description">DigitalLogs uses Accessibility Service to detect foreground app changes in real-time for accurate usage tracking and session analysis.</string>
+    <string name="app_name">DigitalLogs</string>
+    <string name="notification_channel_description">Tracks your digital usage in the background</string>
+    <string name="notification_channel_name">Usage Tracking</string>
+    <string name="notification_text">Recording your digital usage patterns</string>
+    <string name="notification_title">DigitalLogs Active</string>
+    <style name="Theme.DigitalLogs" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

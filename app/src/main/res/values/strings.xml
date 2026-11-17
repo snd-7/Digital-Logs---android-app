@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DigitalLogs</string>
+    <string name="accessibility_service_description">DigitalLogs uses Accessibility Service to detect foreground app changes in real-time for accurate usage tracking and session analysis.</string>
+    <string name="notification_channel_name">Usage Tracking</string>
+    <string name="notification_channel_description">Tracks your digital usage in the background</string>
+    <string name="notification_title">DigitalLogs Active</string>
+    <string name="notification_text">Recording your digital usage patterns</string>
+</resources>

@@ -1,0 +1,75 @@
+com.digitallogs.app-work-runtime-ktx-2.10.0-0 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/043204d411b581935122d9b6e4820620/transformed/work-runtime-ktx-2.10.0/res
+com.digitallogs.app-foundation-release-1 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/0a6830600a4e59973e37a3e06d02847f/transformed/foundation-release/res
+com.digitallogs.app-navigation-runtime-ktx-2.8.9-2 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/0bc2eed1e45a1dd60c84fde38d12c786/transformed/navigation-runtime-ktx-2.8.9/res
+com.digitallogs.app-lifecycle-viewmodel-release-3 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/10e256fb82a37e1f79b5286ca8209bfa/transformed/lifecycle-viewmodel-release/res
+com.digitallogs.app-lifecycle-process-2.8.7-4 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/10e757ea2bec32ac9bc7f9e66fe51192/transformed/lifecycle-process-2.8.7/res
+com.digitallogs.app-sqlite-2.4.0-5 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/16723afba58aab8b895211086fb4b961/transformed/sqlite-2.4.0/res
+com.digitallogs.app-profileinstaller-1.4.0-6 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/18aa04a00b0a8e83329e8e8dd97020c1/transformed/profileinstaller-1.4.0/res
+com.digitallogs.app-datastore-release-7 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/1a22fcf5b0ddbaf5ff5ffd3a6ac916db/transformed/datastore-release/res
+com.digitallogs.app-room-ktx-2.6.1-8 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/1cefdd1faaec78d2087da11e8c27fe48/transformed/room-ktx-2.6.1/res
+com.digitallogs.app-hilt-navigation-1.2.0-9 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/20b1ad225758b26ebc1ee70094027f78/transformed/hilt-navigation-1.2.0/res
+com.digitallogs.app-savedstate-1.2.1-10 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/235e8955d3276ee6e7658179e3776562/transformed/savedstate-1.2.1/res
+com.digitallogs.app-lifecycle-viewmodel-ktx-2.8.7-11 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/2a26fd6604de85a08b79c07521058a3f/transformed/lifecycle-viewmodel-ktx-2.8.7/res
+com.digitallogs.app-ui-tooling-data-release-12 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/2cb6e2353e8d5e96a0bad17a7e585e1a/transformed/ui-tooling-data-release/res
+com.digitallogs.app-startup-runtime-1.1.1-13 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/2d29602009f78ecde65e315da582a5de/transformed/startup-runtime-1.1.1/res
+com.digitallogs.app-ui-geometry-release-14 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/2daf0d77672c4f435c7715bbd82de806/transformed/ui-geometry-release/res
+com.digitallogs.app-navigation-runtime-2.8.9-15 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/303b872a34ca2851b168e1eb83ed1007/transformed/navigation-runtime-2.8.9/res
+com.digitallogs.app-customview-poolingcontainer-1.0.0-16 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/317eaf1abacb304720f46bf8a061321f/transformed/customview-poolingcontainer-1.0.0/res
+com.digitallogs.app-fragment-1.5.1-17 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/36337b7466d71ff861fba798ef94a9f9/transformed/fragment-1.5.1/res
+com.digitallogs.app-animation-core-release-18 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/39e4a3688873fb3cf8cb2e277cf5d15a/transformed/animation-core-release/res
+com.digitallogs.app-ui-util-release-19 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/3b2f32a873c6c3be0b2034ee4a10aecd/transformed/ui-util-release/res
+com.digitallogs.app-emoji2-1.3.0-20 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/3e39187235ae5927b964b251f39016c6/transformed/emoji2-1.3.0/res
+com.digitallogs.app-graphics-path-1.0.1-21 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/40e596d683bcf9275545beb6615125f1/transformed/graphics-path-1.0.1/res
+com.digitallogs.app-hilt-navigation-compose-1.2.0-22 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/44bd6e38c107b9090c069b8f5026fd28/transformed/hilt-navigation-compose-1.2.0/res
+com.digitallogs.app-ui-unit-release-23 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/47d66d646bc04c9c7d43cf67ed402c7b/transformed/ui-unit-release/res
+com.digitallogs.app-ui-release-24 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/4a61c68fb3e25564e21f22be1546211f/transformed/ui-release/res
+com.digitallogs.app-lifecycle-livedata-2.8.7-25 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/4db2dbdb3a51344d57bc44f57ccacb3b/transformed/lifecycle-livedata-2.8.7/res
+com.digitallogs.app-datastore-core-release-26 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/4f5a7ec7990463ecee36c64bbdfd3d17/transformed/datastore-core-release/res
+com.digitallogs.app-runtime-release-27 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/52109ce71921e1f90ab63e5f0d0133dc/transformed/runtime-release/res
+com.digitallogs.app-material-icons-extended-release-28 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/57dbc23cb91e4a9703c520a88807e8f1/transformed/material-icons-extended-release/res
+com.digitallogs.app-ui-tooling-preview-release-29 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/5ca2fe328dc31a08ef58cdf202f5816b/transformed/ui-tooling-preview-release/res
+com.digitallogs.app-tracing-1.2.0-30 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/5e30418a5f9c74bb0c6ac56cfc925851/transformed/tracing-1.2.0/res
+com.digitallogs.app-core-runtime-2.2.0-31 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/5e91e8108784f54e812f9554c2fac9e0/transformed/core-runtime-2.2.0/res
+com.digitallogs.app-material-release-32 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/5f9d4e9178823f4d295f88b9baa578ab/transformed/material-release/res
+com.digitallogs.app-ui-tooling-release-33 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/649251c2e266d0fd7db7137c4b0d4d05/transformed/ui-tooling-release/res
+com.digitallogs.app-hilt-work-1.2.0-34 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/67cd0f67867c00514987879837c69ac5/transformed/hilt-work-1.2.0/res
+com.digitallogs.app-annotation-experimental-1.4.1-35 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/684814909b2d45090e9d4c0e5005ae1a/transformed/annotation-experimental-1.4.1/res
+com.digitallogs.app-navigation-common-2.8.9-36 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/7fd99e1a6d5add49967826793e6b5b1b/transformed/navigation-common-2.8.9/res
+com.digitallogs.app-navigation-common-ktx-2.8.9-37 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/812d0f0db77cb4706a648f7c95b4db82/transformed/navigation-common-ktx-2.8.9/res
+com.digitallogs.app-activity-compose-1.10.1-38 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/8989a82c093021f298cee981e9256668/transformed/activity-compose-1.10.1/res
+com.digitallogs.app-material3-release-39 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/89b520b45100ee5a8c9f0f3004e3c57c/transformed/material3-release/res
+com.digitallogs.app-room-runtime-2.6.1-40 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/89f67c2576e5f92d93d8eb5b94e2d401/transformed/room-runtime-2.6.1/res
+com.digitallogs.app-foundation-layout-release-41 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/8dfa6ba63c3375dc8582ee2894928afd/transformed/foundation-layout-release/res
+com.digitallogs.app-lifecycle-viewmodel-savedstate-2.8.7-42 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/94afc5491e3b9c462fe107722f19f5fe/transformed/lifecycle-viewmodel-savedstate-2.8.7/res
+com.digitallogs.app-animation-release-43 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/9b62367e229bf295eb32d3bec77df65f/transformed/animation-release/res
+com.digitallogs.app-core-1.15.0-44 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/9d63bcb3b392aefd094833ef73cdf0d6/transformed/core-1.15.0/res
+com.digitallogs.app-activity-ktx-1.10.1-45 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/9e0445eed1b2559b4d57c85216db1192/transformed/activity-ktx-1.10.1/res
+com.digitallogs.app-activity-1.10.1-46 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/a120bfb2f87e59275d910250c48d54e2/transformed/activity-1.10.1/res
+com.digitallogs.app-navigation-compose-2.8.9-47 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/a19455c996a8fe19fada8bead636e250/transformed/navigation-compose-2.8.9/res
+com.digitallogs.app-lifecycle-runtime-release-48 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/a84bd195b83fc5cd6ecc82e58b99fae3/transformed/lifecycle-runtime-release/res
+com.digitallogs.app-lifecycle-runtime-compose-release-49 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/ac39581c713a1553443206eb65b637a4/transformed/lifecycle-runtime-compose-release/res
+com.digitallogs.app-work-runtime-2.10.0-50 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/b144acde72a92a99f1ab9accadc4a28a/transformed/work-runtime-2.10.0/res
+com.digitallogs.app-material-ripple-release-51 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/ba122caf1285e5967763b58621f5d2e9/transformed/material-ripple-release/res
+com.digitallogs.app-datastore-preferences-release-52 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/ba1f027129819f45f980d5af4dbb4db5/transformed/datastore-preferences-release/res
+com.digitallogs.app-runtime-saveable-release-53 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/bbe6608f2dc6bf642fece68ff8d9b671/transformed/runtime-saveable-release/res
+com.digitallogs.app-lifecycle-viewmodel-compose-release-54 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/bdd57b7aac5cd90c117a8277cac7d7bf/transformed/lifecycle-viewmodel-compose-release/res
+com.digitallogs.app-lifecycle-runtime-ktx-release-55 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/c40a9ee17ba1168b699aebf528b89ac3/transformed/lifecycle-runtime-ktx-release/res
+com.digitallogs.app-material-icons-core-release-56 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/c4f9c261b8dd7af7370a802db0deb732/transformed/material-icons-core-release/res
+com.digitallogs.app-lifecycle-service-2.8.7-57 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/c973f99d2ac5c2b343cb02eef7a26b80/transformed/lifecycle-service-2.8.7/res
+com.digitallogs.app-tracing-ktx-1.2.0-58 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/cfeeb8da47d70ca30ef61591ebb31200/transformed/tracing-ktx-1.2.0/res
+com.digitallogs.app-core-viewtree-1.0.0-59 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/d980532593ba2b8ac2242442c16eefd2/transformed/core-viewtree-1.0.0/res
+com.digitallogs.app-sqlite-framework-2.4.0-60 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/e7c85d45681e0600d291c1aebf332314/transformed/sqlite-framework-2.4.0/res
+com.digitallogs.app-savedstate-ktx-1.2.1-61 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/e8841fc4b3ab618056e74777f39a281f/transformed/savedstate-ktx-1.2.1/res
+com.digitallogs.app-lifecycle-livedata-core-ktx-2.8.7-62 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/ea104df89bfcea310ea357b35ec48a01/transformed/lifecycle-livedata-core-ktx-2.8.7/res
+com.digitallogs.app-ui-graphics-release-63 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/eb5018021654b37f79463e118166a4a0/transformed/ui-graphics-release/res
+com.digitallogs.app-ui-text-release-64 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/ed02eb5c4f5a4d76a7f77ac017fb2c78/transformed/ui-text-release/res
+com.digitallogs.app-core-ktx-1.15.0-65 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/f08c0c404681892d7b2721c3052528b1/transformed/core-ktx-1.15.0/res
+com.digitallogs.app-lifecycle-livedata-core-2.8.7-66 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/fa8f7080d33753a746b9abbc34eeeb31/transformed/lifecycle-livedata-core-2.8.7/res
+com.digitallogs.app-ui-test-manifest-1.7.8-67 /Users/paulovilasboas/.gradle/caches/8.11.1/transforms/fcab8fc7e51a6156f4dc9b235f581606/transformed/ui-test-manifest-1.7.8/res
+com.digitallogs.app-pngs-68 /Users/paulovilasboas/Desktop/DigitalLogs 2/app/build/generated/res/pngs/debug
+com.digitallogs.app-resValues-69 /Users/paulovilasboas/Desktop/DigitalLogs 2/app/build/generated/res/resValues/debug
+com.digitallogs.app-packageDebugResources-70 /Users/paulovilasboas/Desktop/DigitalLogs 2/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.digitallogs.app-packageDebugResources-71 /Users/paulovilasboas/Desktop/DigitalLogs 2/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.digitallogs.app-debug-72 /Users/paulovilasboas/Desktop/DigitalLogs 2/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.digitallogs.app-debug-73 /Users/paulovilasboas/Desktop/DigitalLogs 2/app/src/debug/res
+com.digitallogs.app-main-74 /Users/paulovilasboas/Desktop/DigitalLogs 2/app/src/main/res
